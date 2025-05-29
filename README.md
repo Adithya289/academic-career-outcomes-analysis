@@ -37,7 +37,9 @@ The analysis utilized three primary datasets containing university and salary in
 
 ### Overview of Findings
 
-The analysis reveals significant salary disparities across regions, majors, and institution types, with California leading at $51,032 average starting salary while the Western region trails at $44,414. Engineering and technology disciplines dominate the highest-paying majors, with Economics leading at $48,500, while traditional liberal arts fields like Criminal Justice ($35,000) and Education ($34,900) show lower starting compensation. Private institutions consistently outperform public universities in salary outcomes across all measured categories.
+* The analysis reveals significant salary disparities across regions, majors, and institution types, with California leading at $51,032 average starting salary while the Western region trails at $44,414.
+
+* Engineering and technology disciplines dominate the highest-paying majors, with Economics leading at $48,500, while traditional liberal arts fields like Criminal Justice ($35,000) and Education ($34,900) show lower starting compensation. Private institutions consistently outperform public universities in salary outcomes across all measured categories.
 
 ![Screenshot 2025-05-29 131753](https://github.com/user-attachments/assets/bbfd4c0b-5d30-49e7-9fbf-773b9f658003)
 
@@ -53,6 +55,7 @@ The analysis reveals significant salary disparities across regions, majors, and 
 
 **Rural vs Urban divide is evident** across all regions, with metropolitan areas consistently offering 20-25% higher starting salaries than rural locations.
 
+
 ### School Type Performance
 **Private institutions demonstrate superior salary outcomes** across nearly all metrics, with graduates earning approximately 12% more than their public university counterparts.
 
@@ -61,6 +64,7 @@ The analysis reveals significant salary disparities across regions, majors, and 
 **Public universities show competitive clustering** around the $100K average mark, with several institutions like Purdue University performing exceptionally well relative to their public status.
 
 **Value proposition varies significantly** between institution types, suggesting that private school premiums may be justified by career outcome improvements.
+
 
 ### Major-Specific Earning Potential
 **STEM fields dominate the top salary brackets** with Economics ($48,500), Physics ($47,000), and Math ($47,000) leading undergraduate major earnings.
@@ -71,6 +75,7 @@ The analysis reveals significant salary disparities across regions, majors, and 
 
 **Career trajectory analysis shows** that while starting salaries vary dramatically, mid-career growth rates tend to be more consistent across disciplines.
 
+
 ### Top University Performance
 **California Institute of Technology (Caltech) leads** with $75,500 average starting salary, reflecting its elite engineering and science programs.
 
@@ -79,6 +84,7 @@ The analysis reveals significant salary disparities across regions, majors, and 
 **Regional champions emerge** with Harvey Mudd College ($71,800) and Princeton University providing excellent value within their respective categories.
 
 **Public institution representation** in the top 10 demonstrates that state schools can compete effectively with private institutions in specific program areas.
+
 
 ## Recommendations
 
@@ -93,6 +99,7 @@ Based on the insights and findings above, we would recommend **prospective stude
 **Geographic mobility significantly impacts earning potential.** Students should consider relocation flexibility as a key career strategy, particularly for those graduating from lower-salary regions.
 
 **Data-driven major selection should incorporate both passion and pragmatism.** While following interests remains important, students should understand the financial implications of major selection and plan accordingly for debt management and career transitions.
+
 
 ## Assumptions and Caveats
 
